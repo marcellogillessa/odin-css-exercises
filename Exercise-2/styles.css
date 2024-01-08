@@ -1,3 +1,18 @@
 * {
-    font-family: Verdana, DejaVuSans, sans-serif;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.im-class {
+    background-color: #ff0000;
+}
+
+#number2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: #00ff00;
+    font-size: 24px;
+    font-weight: bold;
 }
