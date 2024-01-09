@@ -2,4 +2,13 @@
     font-size: 28px;
     font-family: Helvetica, 'Times New Roman', sans-serif;
 }
+ 
+.black {
+    color: #fff;
+    background-color: #000;
+}
 
+.yellow {
+    color: #000;
+    background-color: #ff0;
+}
